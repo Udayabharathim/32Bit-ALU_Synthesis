@@ -36,13 +36,15 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
-![PD_EXP_5_1](https://github.com/user-attachments/assets/80ba069a-17b2-4579-9212-e97a97533a93)
+![WhatsApp Image 2024-11-24 at 1 16 34 PM](https://github.com/user-attachments/assets/6b91d83a-aee6-4bd0-a984-4e9f75212475)
+
 
 #### Area report:
-![PD_EXP_5_2](https://github.com/user-attachments/assets/4b69fc34-4d80-49d5-b900-656304230aca)
+![WhatsApp Image 2024-11-24 at 4 27 20 PM](https://github.com/user-attachments/assets/0c76f1dc-b63c-412a-ab98-e8fa4f6aa50c)
+
 
 #### Power Report:
-![PD_EXP_5_3](https://github.com/user-attachments/assets/2bbbde8c-792c-4f16-bc8d-3ec3d0d07550)
+![WhatsApp Image 2024-11-24 at 4 27 43 PM](https://github.com/user-attachments/assets/d9d34654-e6ab-4b09-ac62-0426d2abccf6)
 
 #### Result: 
 
